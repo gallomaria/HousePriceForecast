@@ -11,12 +11,12 @@ The primary goal of this analysis is to predict house prices based on a large se
 - Artificial Neural Network
 
 ## Requirements 
+- Python: 3.12.7
 - matplotlib: 3.9.2
 - missingno: 0.5.2
 - numpy: 1.26.0
 - keras: 3.6.0
 - pandas: 2.2.3
-- pytz: 2024.2
 - scikeras: 0.13.0
 - scipy: 1.14.1
 - seaborn: 0.13.2
