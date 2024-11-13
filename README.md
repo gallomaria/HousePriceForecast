@@ -8,7 +8,6 @@ The primary goal of this analysis is to predict house prices based on a large se
 - Lasso
 - Random Forest
 - Gradient Boosting
-- Artificial Neural Network
 
 ## Requirements 
 - Python: 3.12.7
