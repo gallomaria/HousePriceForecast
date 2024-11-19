@@ -9,7 +9,7 @@ The primary goal of this analysis is to predict house prices based on a large se
 - Random Forest
 - Gradient Boosting
 
-## Requirements 
+## Prerequisites 
 - Python: 3.12.7
 - matplotlib: 3.9.2
 - missingno: 0.5.2
